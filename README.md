@@ -12,7 +12,7 @@ The structure is divided as follow:
 
 
 
-## Installation
+## Git Installation
 
 Before setting up the workspace we must first download the git for your respective Operating System if you don't already have it.
 
